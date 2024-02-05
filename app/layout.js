@@ -29,7 +29,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={inter.className}>{children}</body>
 
-     <Script src="../assets/js/imagesloaded.pkgd.min.js"></Script>
+
       <Script src="../assets/js/masonry.pkgd.min.js"></Script>
       <Script src="../assets/js/classie.js"></Script>
 
