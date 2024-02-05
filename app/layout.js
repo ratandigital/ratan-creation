@@ -30,8 +30,7 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>{children}</body>
 
 
-      <Script src="../assets/js/masonry.pkgd.min.js"></Script>
-      <Script src="../assets/js/classie.js"></Script>
+
 
      
     </html>
