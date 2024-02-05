@@ -32,9 +32,9 @@ export default function RootLayout({ children }) {
 
     {/* <Script src="../assets/js/jquery-3.7.1.min.js"></Script> */}
       {/* <Script src="../assets/js/styleswitcher.js"></Script> */}
-      <Script src="../assets/js/imagesloaded.pkgd.min.js"></Script>
-      <Script src="../assets/js/masonry.pkgd.min.js"></Script>
-      <Script src="../assets/js/classie.js"></Script>
+      // <Script src="../assets/js/imagesloaded.pkgd.min.js"></Script>
+      // <Script src="../assets/js/masonry.pkgd.min.js"></Script>
+      // <Script src="../assets/js/classie.js"></Script>
       {/* <Script src="../assets/js/main.js"></Script> */}
       {/* <Script src="../assets/js/cbpGridGallery.js"></Script>
       <Script src="../assets/js/jquery.hoverdir.js"></Script> */}
