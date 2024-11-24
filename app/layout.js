@@ -40,7 +40,7 @@ export default function RootLayout({ children }) {
       <Script src="../assets/js/menu.js"></Script> 
       <Script src="../assets/js/custom.js"></Script> 
       <Script src="../assets/js/modernizr.min.js"></Script> 
-    <Script type='text/javascript' src='//pl22735373.profitablegatecpm.com/30/b2/2c/30b22c0b7f08cacb9884790808aaa01f.js'></Script>
+    // <Script type='text/javascript' src='//pl22735373.profitablegatecpm.com/30/b2/2c/30b22c0b7f08cacb9884790808aaa01f.js'></Script>
      
     </html>
   );
